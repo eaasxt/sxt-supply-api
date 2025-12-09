@@ -4,6 +4,10 @@
     {
       "source": "/api/supply/circulating",
       "destination": "/api/circulating"
+    },
+    {
+      "source": "/api/supply/total",
+      "destination": "/api/total"
     }
   ],
   "headers": [
