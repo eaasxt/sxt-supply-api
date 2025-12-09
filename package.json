@@ -4,9 +4,7 @@
   "description": "Circulating supply API for SXT token - CoinGecko integration",
   "main": "api/supply.ts",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build",
-    "deploy": "vercel --prod"
+    "dev": "vercel dev"
   },
   "devDependencies": {
     "@vercel/node": "^3.2.29",
